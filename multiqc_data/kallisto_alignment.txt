@@ -1,0 +1,11 @@
+Sample	Pseudoaligned	Not aligned
+kallisto_output | SRR8668755_filtered	47349550.0	42031797.0
+kallisto_output | SRR8668756_filtered	57039451.0	25475939.0
+kallisto_output | SRR8668757_filtered	46298875.0	48302022.0
+kallisto_output | SRR8668758_filtered	18376282.0	10721065.0
+kallisto_output | SRR8668759_filtered	2549667.0	1834632.0
+kallisto_output | SRR8668769_filtered	63664875.0	30086354.0
+kallisto_output | SRR8668771_filtered	33581752.0	30569517.0
+kallisto_output | SRR8668772_filtered	37026360.0	30742595.0
+kallisto_output | SRR8668773_filtered	45749096.0	23802197.0
+kallisto_output | SRR8668774_filtered	76704885.0	53579073.0

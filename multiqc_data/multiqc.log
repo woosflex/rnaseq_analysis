@@ -1,0 +1,6 @@
+[2025-04-13 02:26:28,974] multiqc.core.update_config                         [INFO   ]  Prepending directory to sample names
+[2025-04-13 02:26:29,775] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.28 now available!
+[2025-04-13 02:26:29,776] multiqc.core.file_search                           [INFO   ]  Search path: /home/adnan_raza/rnaseq_analysis
+[2025-04-13 02:26:30,397] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 10 reports
+[2025-04-13 02:26:30,468] multiqc.modules.fastp.fastp                        [INFO   ]  Found 10 reports
+[2025-04-13 02:26:30,539] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 20 reports

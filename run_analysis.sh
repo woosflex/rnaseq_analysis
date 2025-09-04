@@ -22,7 +22,7 @@ THREADS=1
 PROJECT_DIR=$(pwd)
 TRIMMED_DIR="$PROJECT_DIR/01_trimmed_reads"
 QUANT_DIR="$PROJECT_DIR/02_kallisto_quant"
-QC_DIR="$PROJECT_DIR/03_qc_reports"
+QC_DIR="$PROJECT_DIR/03_reports"
 BUILD_INDEX="false"
 
 # --- Function Definitions for Modularity ---
